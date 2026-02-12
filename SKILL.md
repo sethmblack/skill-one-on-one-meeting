@@ -1,11 +1,9 @@
 ---
 name: one-on-one-meeting
-description: Conduct strategic relational conversations that build relationships,
-  surface motivations, identify potential leaders, and map connections—the foundational
-  technique of effective organizing.
+description: Conduct strategic relational conversations that build relationships, surface motivations, identify potential leaders, and map connections—the foundational technique of effective organizing.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - one-on-one-meeting
