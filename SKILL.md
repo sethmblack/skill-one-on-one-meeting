@@ -3,8 +3,9 @@ name: one-on-one-meeting
 description: Conduct strategic relational conversations that build relationships, surface motivations, identify potential leaders, and map connections—the foundational technique of effective organizing.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4604
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - one-on-one-meeting
 - writing
